@@ -23,3 +23,7 @@ export const GlobalStyle = StyleSheet.create({
   valueText: { color: "#999999", fontSize: 12 },
   valueTitle: { color: "#000", fontSize: 12 },
 });
+
+export const API = {
+  BASE_URL: "https://api.oneplatform.simc1.com/api",
+}
